@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "The Title 1 Love",
+      "description": "The description of the title"
+    },
+    {
+      "id": 2,
+      "title": "The Title 2 Love",
+      "description": "The description of the title"
+    },
+    {
+      "id": 3,
+      "title": "The Title 3 Love",
+      "description": "The description of the title"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "The body 1 Love",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "The Title 2 Love",
+      "postId": 1
+    },
+  ],
+  "profile": [
+    {
+      "name": "Profile 1"
+    },
+  ],
+}
